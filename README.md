@@ -7,7 +7,7 @@ Members of Lok Sabha (House of the People) or the lower house of India's Parliam
 
 
 # Insights
-## 1. What is gender distribution of accross the Lok Sabha
+## 1. What is gender distribution accross the Lok Sabha
 ![data](https://raw.githubusercontent.com/Araon/Who-do-Indians-Vote/master/Images/newplot(1).png)
 
 ## 2. What is the average education qualification of a Politician across the board?
