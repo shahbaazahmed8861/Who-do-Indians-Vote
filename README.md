@@ -5,10 +5,26 @@ India is a country, divided into states and union territories, with a parliament
 ## The Analysis here is based on the election to Lok Sabha (The General Elections) for the year 2019
 Members of Lok Sabha (House of the People) or the lower house of India's Parliament are elected by being voted upon by all adult citizens of India, from a set of candidates who stand in their respective constituencies. Every adult citizen of India can vote only in their constituency. Candidates who win the Lok Sabha elections are called 'Member of Parliament' and hold their seats for five years or until the body is dissolved by the President on the advice of the council of ministers. The house meets in the Lok Sabha Chambers of the Sansad Bhavan in New Delhi, on matters relating to the creation of new laws, removing or improving the existing laws that affect all citizens of India.
 
+
+# Insights
+## 1. What is gender distribution of accross the Lok Sabha
+![data](https://raw.githubusercontent.com/Araon/Who-do-Indians-Vote/master/Images/newplot(1).png)
+
+## 2. What is the average education qualification of a Politician across the board?
+![data](https://raw.githubusercontent.com/Araon/Who-do-Indians-Vote/master/Images/newplot(2).png)
+
+![data](https://raw.githubusercontent.com/Araon/Who-do-Indians-Vote/master/Images/newplot(3).png)
+
+## 3. What is the criminal cases distribution across all the politicians?
+![data](https://raw.githubusercontent.com/Araon/Who-do-Indians-Vote/master/Images/newplot.png)
+
+## 4. What is the age count distribution across all the politicians?
+![data](https://raw.githubusercontent.com/Araon/Who-do-Indians-Vote/master/Images/newplot(4).png)
+
 ## Dataset
 The data is from this [dataset](https://www.kaggle.com/prakrutchauhan/indian-candidates-for-general-election-2019). The Personal data of each candidate is mainly scraped from [myneta.info](https://www.myneta.info)
 
-**p.s somebody help me make a ploty work on google collab**
+**p.s somebody help me make a ploty work on google collab** - `Got it thanks!`
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
